@@ -4635,6 +4635,127 @@ proxies:
     tfo: false
     skip-cert-verify: false
     flow: ''
+  - name: "🏴‍☠️@hamedvpns 73"
+    type: vless
+    server: 18.197.51.172
+    port: 44708
+    uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 74"
+    type: vless
+    server: 18.199.171.164
+    port: 443
+    uuid: a0891e86-ce1f-4e1b-e47c-84c890f1b130
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 75"
+    type: vless
+    server: 3.66.232.13
+    port: 59667
+    uuid: 15336743-2807-492e-c6d3-afc0b80e6c22
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 76"
+    type: vless
+    server: 3.68.157.24
+    port: 443
+    uuid: 7396c077-f5cb-4808-84ca-92f268d79b3d
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 77"
+    type: vless
+    server: 18.194.138.54
+    port: 443
+    uuid: 8a192afa-6ae2-4525-dd83-b99150e709a6
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 78"
+    type: vless
+    server: 3.121.208.22
+    port: 443
+    uuid: 7e015ae5-8173-4fbd-a9a1-a7d5ffa3826f
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 79"
+    type: vless
+    server: 18.156.77.36
+    port: 22379
+    uuid: 794237e1-71c3-43bd-e51c-8b7e83b857d5
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 80"
+    type: vless
+    server: 18.157.165.17
+    port: 443
+    uuid: 3ffb5c28-97b3-4056-c72e-ba0de6272c05
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 81"
+    type: vless
+    server: 3.126.240.135
+    port: 443
+    uuid: c21ba381-5808-4098-b94d-86c468a683d9
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 82"
+    type: vless
+    server: 18.159.215.217
+    port: 39252
+    uuid: 863a3c52-328f-4eaf-e6c8-73c5abb26419
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 83"
+    type: vless
+    server: 3.123.42.118
+    port: 50170
+    uuid: 67fd9d67-7693-4a28-e7a1-fb02c8008cef
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
   - name: "DR-SS 1 🇻🇳"
     type: ss
     server: 103.186.154.32
@@ -6766,6 +6887,17 @@ proxy-groups:
       - "🏴‍☠️@hamedvpns 70"
       - "🏴‍☠️@hamedvpns 71"
       - "🏴‍☠️@hamedvpns 72"
+      - "🏴‍☠️@hamedvpns 73"
+      - "🏴‍☠️@hamedvpns 74"
+      - "🏴‍☠️@hamedvpns 75"
+      - "🏴‍☠️@hamedvpns 76"
+      - "🏴‍☠️@hamedvpns 77"
+      - "🏴‍☠️@hamedvpns 78"
+      - "🏴‍☠️@hamedvpns 79"
+      - "🏴‍☠️@hamedvpns 80"
+      - "🏴‍☠️@hamedvpns 81"
+      - "🏴‍☠️@hamedvpns 82"
+      - "🏴‍☠️@hamedvpns 83"
 
 
   - name: "hamedp71⚡"
