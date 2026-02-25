@@ -4719,6 +4719,99 @@ proxies:
     tfo: false
     skip-cert-verify: true
     flow: ''
+  - name: "🇫🇷@hamedvpns 5"
+    type: vless
+    server: v2.speedbluepanel.sbs
+    port: 52657
+    uuid: e42513dd-e4de-446f-a7df-2bc23db90ba1
+    tls: true
+    servername: play.google.com
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🇸🇬@hamedvpns 3"
+    type: vless
+    server: zf.sg1000.eu.cc
+    port: 50000
+    uuid: 35249ead-311e-4cb9-ab36-17406ccf6b84
+    tls: true
+    client-fingerprint: chrome
+    servername: yahoo.com
+    network: tcp
+    reality-opts:
+      public-key: XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk
+      short-id: 1f7bfe
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 32"
+    type: vless
+    server: ocoman.izumii.ir
+    port: 8002
+    uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90
+    tls: true
+    client-fingerprint: chrome
+    servername: www.yahoo.com
+    network: tcp
+    reality-opts:
+      public-key: 527jKuAA9NDmBT1awVij74Qdfl4aRk_pqcGQSOvfbCM
+      short-id: cdb321e1bb50034a
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 33"
+    type: vless
+    server: khantyronconfig.panel.sanaee.mohammadkhan.shop
+    port: 2083
+    uuid: 3b41690a-41f7-4d22-88b6-dd6bd4d3ed04
+    tls: true
+    servername: cloudflare.com
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 34"
+    type: vless
+    server: poli.appleseraj.ir
+    port: 443
+    uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90
+    tls: true
+    servername: nigeria.mastermarly.ir
+    network: ws
+    ws-opts:
+      path: /?ed=2048
+      headers:
+        host: nigeria.mastermarly.ir
+    tfo: false
+    skip-cert-verify: true
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 35"
+    type: vless
+    server: 104.21.48.147
+    port: 80
+    uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff
+    tls: true
+    servername: afrcloud22.mmv.kr
+    network: ws
+    ws-opts:
+      path: /64.181.218.67=443
+      headers:
+        host: afrcloud22.mmv.kr
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 36"
+    type: vless
+    server: srvfree.iranai.space
+    port: 41314
+    uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
   - name: "DR-SS 1 🇻🇳"
     type: ss
     server: 103.186.154.32
@@ -6844,6 +6937,13 @@ proxy-groups:
       - "🏴‍☠️@hamedvpns 29"
       - "🏴‍☠️@hamedvpns 30"
       - "🏴‍☠️@hamedvpns 31"
+      - "🇫🇷@hamedvpns 5"
+      - "🇸🇬@hamedvpns 3"
+      - "🏴‍☠️@hamedvpns 32"
+      - "🏴‍☠️@hamedvpns 33"
+      - "🏴‍☠️@hamedvpns 34"
+      - "🏴‍☠️@hamedvpns 35"
+      - "🏴‍☠️@hamedvpns 36"
 
 
 
