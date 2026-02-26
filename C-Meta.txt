@@ -4874,6 +4874,73 @@ proxies:
     tfo: false
     skip-cert-verify: false
     flow: ''
+  - name: "🏴‍☠️@hamedvpns 41"
+    type: vless
+    server: 107.174.198.228
+    port: 8443
+    uuid: 699fca60-533f-4436-38db-7881c2150fe2
+    tls: true
+    servername: 53e5ab44.lfree.cn.mt
+    network: ws
+    ws-opts:
+      path: /socks5=44fa737d:1bab4a4504ca@38.96.191.150:21719
+      headers:
+        host: 53e5ab44.lfree.cn.mt
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🇮🇷@hamedvpns"
+    type: vless
+    server: 94.184.24.235
+    port: 56001
+    uuid: 48e3ec8d-44ce-4542-aa4d-a48573e0d423
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🇩🇪@hamedvpns 25"
+    type: vless
+    server: 172.64.145.38
+    port: 2087
+    uuid: 41c55d8d-44dd-4437-90ff-4c1eb869a67c
+    tls: true
+    servername: digikala.sorza.ir
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        host: gamepc.sorza.ir
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 42"
+    type: vless
+    server: 3.70.201.52
+    port: 25332
+    uuid: 69025202-5091-4893-8930-f530c6fe50e2
+    tls: true
+    servername: ''
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 43"
+    type: vless
+    server: fastly2.hamrahflow.ir
+    port: 443
+    uuid: 5e07e5e7-35ae-4848-9b5b-4abd4e65682f
+    tls: true
+    servername: default.ssl.fastly.net
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        host: Valsiin.com
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
   - name: "DR-SS 1 🇻🇳"
     type: ss
     server: 103.186.154.32
@@ -7028,6 +7095,11 @@ proxy-groups:
       - "🏴‍☠️@hamedvpns 38"
       - "🏴‍☠️@hamedvpns 39"
       - "🏴‍☠️@hamedvpns 40"
+      - "🏴‍☠️@hamedvpns 41"
+      - "🇮🇷@hamedvpns"
+      - "🇩🇪@hamedvpns 25"
+      - "🏴‍☠️@hamedvpns 42"
+      - "🏴‍☠️@hamedvpns 43"
 
 
 
