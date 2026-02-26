@@ -4941,6 +4941,48 @@ proxies:
     tfo: false
     skip-cert-verify: false
     flow: ''
+  - name: "🏴‍☠️@hamedvpns 44"
+    type: vless
+    server: 2.189.161.205
+    port: 20200
+    uuid: 17ac0683-7c80-4876-9ad0-532c5d92af2d
+    tls: true
+    servername: varzesh3.com
+    network: tcp
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 45"
+    type: vless
+    server: f1.springpaatogh8.store
+    port: 2053
+    uuid: 15a8a868-ddd3-4a8c-bf7a-bb81671bf157
+    tls: true
+    servername: digikala.sorza.ir
+    network: ws
+    ws-opts:
+      path: /?ed=2560
+      headers:
+        host: chess.sorza.ir
+    tfo: false
+    skip-cert-verify: false
+    flow: ''
+  - name: "🏴‍☠️@hamedvpns 46"
+    type: vless
+    server: sahand.cocomelon.org
+    port: 443
+    uuid: 0a0d8e6f-8747-4ff6-afe0-e70aa97e7de8
+    tls: true
+    client-fingerprint: chrome
+    servername: finance.yahoo.com
+    network: tcp
+    reality-opts:
+      public-key: 1LHMePKT5PP9F9WQ1HhZUWZlrK2p9AW_sUwKNfO4ZC0
+      short-id: dd8ca121bb77dad9
+    tfo: false
+    skip-cert-verify: false
+    flow: xtls-rprx-vision
+
   - name: "DR-SS 1 🇻🇳"
     type: ss
     server: 103.186.154.32
@@ -7100,6 +7142,9 @@ proxy-groups:
       - "🇩🇪@hamedvpns 25"
       - "🏴‍☠️@hamedvpns 42"
       - "🏴‍☠️@hamedvpns 43"
+      - "🏴‍☠️@hamedvpns 44"
+      - "🏴‍☠️@hamedvpns 45"
+      - "🏴‍☠️@hamedvpns 46"
 
 
 
